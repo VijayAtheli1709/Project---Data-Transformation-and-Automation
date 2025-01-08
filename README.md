@@ -105,7 +105,7 @@ Project_Data_Transformation/
 ├── Part_A/
 │   ├── Project_3_Part_A.ipynb
 │   ├── Project_3_Part_A_Group6.csv
-│   ├── IMDb_TopVoted_Group#.csv
+│   ├── IMDb_TopVoted_Group6.csv
 │   ├── Movies.csv
 ├── Part_B/
 │   ├── Project_3_Part_B_Group6.yxmd
